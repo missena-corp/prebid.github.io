@@ -3,7 +3,7 @@ layout: bidder
 title: Missena
 description: Prebid Missena Bidder Adapter
 biddercode: missena
-gvl_id: 867
+gvl_id: 687
 pbjs: true
 pbs: true
 gpp_sids: tcfeu, tcfca, usnat, usstate_all, usp
